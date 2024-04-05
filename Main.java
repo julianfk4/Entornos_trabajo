@@ -4,8 +4,6 @@ public class Main {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-
-
         
         Caja caja1 = new Caja(3, 4,3);
         Caja caja2 = new Caja(4, 10,5);
@@ -27,4 +25,6 @@ public class Main {
         }
         sc.close();
     }
+
 }
+
