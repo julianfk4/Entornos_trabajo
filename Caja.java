@@ -1,8 +1,6 @@
 public class Caja {
     
-<<<<<<< HEAD
-}
-=======
+
     double alto , ancho, largo;
 
     public Caja (double altura, double anchura, double largura){
@@ -16,4 +14,3 @@ public class Caja {
         largo = larg_puerta;
     }
 }
->>>>>>> 784139b (comit para el cherry)
