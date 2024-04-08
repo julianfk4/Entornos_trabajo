@@ -3,19 +3,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-<<<<<<< HEAD
 
-=======
->>>>>>> 9006afd (main modificado)
+
+
         
         Caja caja1 = new Caja(3, 4,3);
         Caja caja2 = new Caja(4, 10,5);
         caja2.alto = 100;
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 9006afd (main modificado)
         Coche coche1 = new Coche("Opel", "Corsa", "Azul", 0, 150);
 
         String marca = sc.nextLine();
@@ -31,10 +27,5 @@ public class Main {
         }
         sc.close();
     }
-<<<<<<< HEAD
 
 }
-
-=======
-}
->>>>>>> 9006afd (main modificado)
