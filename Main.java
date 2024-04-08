@@ -6,11 +6,11 @@ public class Main {
 
 
 
-        /* 
+        
         Caja caja1 = new Caja(3, 4,3);
         Caja caja2 = new Caja(4, 10,5);
         caja2.alto = 100;
-*/
+
 
         Coche coche1 = new Coche("Opel", "Corsa", "Azul", 0, 150);
 
